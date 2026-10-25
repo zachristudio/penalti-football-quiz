@@ -2,11 +2,12 @@
 
 **Effective date:** 25 October 2026
 
-Penalti: Football Quiz ("Penalti", "the app") is made by Zachri Studio ("we", "us"). This policy explains what information the app uses, why, and the choices you have. We have kept the app as private as we can: there are no accounts, no sign-in, and we do not run our own servers or analytics.
+Penalti: Football Quiz ("Penalti", "the app") is made by Zachri Studio ("we", "us"). This policy explains what information the app uses, why, and the choices you have. We have kept the app as private as we can: there are no accounts and no sign-in, and we do not run our own servers.
 
 ## The short version
 
-- Your game progress and settings stay **on your phone**. We never receive them.
+- Your game progress and settings stay **on your phone**.
+- To improve the game, the app sends **anonymous usage statistics** (Google Analytics for Firebase): which modes and items get used, how penalties go, device model and iOS version. Never your name or anything you type. You can switch it off in Settings.
 - We don't ask for your name, email, location, contacts, photos, camera or microphone.
 - The app shows an **optional ad** only when you choose to retake a penalty. Those ads come from **Google AdMob**, which processes some device data to show, measure and protect ads, as described below.
 - You decide about ad personalisation: through Google's consent form (in the EEA, UK and Switzerland) and Apple's "Allow tracking" prompt.
@@ -22,6 +23,18 @@ The app saves the following **only on your device**, so the game remembers where
 This information is not sent to us or to anyone else. Deleting the app deletes it.
 
 If you share your result, the app creates an image and hands it to the iOS share sheet. Where it goes is your choice; we don't see it.
+
+## Usage statistics (Google Analytics for Firebase)
+
+To understand how Penalti is played and what to improve, the app uses Google Analytics for Firebase, a service of Google Ireland Limited / Google LLC. It collects:
+
+- **game events**: starting tonight's five or free play, each penalty's outcome (goal, saved, post, over) and points, power-ups used, Save it! and retakes, Locker visits and what you equip, settings changed (sound, play on silent, haptics), level-ups, shares;
+- **player properties**: level, games played, streak, equipped kit/boots/ball, settings;
+- **automatically**: an app-instance identifier (random, created by the app, not your Apple ID or IDFA), sessions and time in app, first open, device model, iOS version, app version, language, and country/region derived from your IP address.
+
+It does not collect your name, email, contacts, precise location or anything you type. Data is used only for statistics about the app, not to show you ads, and Google retains it for up to 14 months.
+
+**Your choices:** in the EEA, UK and Switzerland, usage statistics follow your answer in Google's consent form (the "store and/or access information on a device" choice), so nothing is collected if you don't consent. Everywhere, you can switch statistics off at any time in **Settings → Share usage data**.
 
 ## Advertising (Google AdMob)
 
@@ -47,6 +60,7 @@ Google uses this information to show ads, measure them, prevent fraud and, where
 ## Legal bases (EEA, UK and Switzerland)
 
 - Information kept on your device for the game to work: necessary to provide the app you asked for.
+- Usage statistics: your consent in the EEA, UK and Switzerland (Google's consent form); elsewhere our legitimate interest in understanding and improving the game, with the Settings switch to object.
 - Personalised advertising and the storage of, or access to, information on your device for advertising: **your consent**, collected through Google's consent form. You can withdraw it at any time, as described above.
 - Fraud prevention, security and delivering a requested ad: legitimate interests, as described in Google's consent form.
 
@@ -56,7 +70,7 @@ Penalti is a general-audience game and is not directed at children under 13, or 
 
 ## Data retention and deletion
 
-We don't hold any of your data. Information on your device stays until you delete the app. For data processed by Google for advertising, see Google's policies above; you can also reset your device's advertising identifier or turn tracking off in iOS Settings.
+We don't hold any of your data on our own servers. Information on your device stays until you delete the app. Usage statistics are kept by Google Analytics for up to 14 months. For data processed by Google for advertising, see Google's policies above; you can also reset your device's advertising identifier or turn tracking off in iOS Settings.
 
 ## Your rights
 
